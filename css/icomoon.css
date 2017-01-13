@@ -24,6 +24,13 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-pacman:before {
+  content: "\e916";
+}
+.icon-basecamp:before {
+  content: "\eab2";
+}
+
 .icon-glass:before {
     content: "\f000";
 }
