@@ -1,13 +1,9 @@
 
-TITLE: 
-Personal - 100% Fully Responsive Free HTML5 Bootstrap Template
+The Basecamp Cover Letter of Jess Pendley. 
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Based on the Personal template by FREEHTML5.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
