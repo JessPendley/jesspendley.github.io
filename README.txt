@@ -1,39 +1,30 @@
+Responsive HTML5 website template for developers
 
-The Basecamp Cover Letter of Jess Pendley. 
+Theme name:
+=======================================================================
+Developer
 
-Based on the Personal template by FREEHTML5.co
+Theme version:
+=======================================================================
+v1.5
 
+Release Date:
+=======================================================================
+07 Jan 2016
 
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
+Contact:
+=======================================================================
+Web: http://themes.3rdwavemedia.com/
+Email: hello@3rdwavemedia.com
+Twitter: @3rdwave_themes
 
-CREDITS:
+License: 
+=======================================================================
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
 
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Easy Pie Chart
-https://github.com/rendro/easy-pie-chart
+If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
